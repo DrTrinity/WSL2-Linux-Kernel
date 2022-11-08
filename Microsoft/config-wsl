@@ -1,4 +1,4 @@
-#
+
 # Automatically generated file; DO NOT EDIT.
 # Linux/x86 5.15.74.2 Kernel Configuration
 #
@@ -2722,7 +2722,7 @@ CONFIG_USB_ACM=y
 #
 # also be needed; see USB_STORAGE Help for more info
 #
-# CONFIG_USB_STORAGE is not set
+CONFIG_USB_STORAGE=y
 
 #
 # USB Imaging devices
